@@ -10,6 +10,7 @@
 4. **git**: Install git via `brew install git`
 
 ## Brew Packages to Install
+*some of the following may require extra config of `.zshrc`*
 
 1. **fzf**: [Install fzf](https://formulae.brew.sh/formula/fzf)  
    _Helps you better find previous commands_  
